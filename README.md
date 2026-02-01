@@ -30,3 +30,9 @@ Interactive slicers for dynamic filtering
 🎯 Conclusion
 
 The dashboard provides a clear view of business performance and helps identify growth opportunities and loss areas using Excel-based analysis.
+
+📈 Pivot Table Image
+<img width="829" height="543" alt="image" src="https://github.com/user-attachments/assets/28fdc8e2-eefe-4cf8-8552-01b178482b0f" />
+
+📊 Dashboard Image
+<img width="806" height="654" alt="image" src="https://github.com/user-attachments/assets/c3733806-c960-4af8-98f1-b81c01e19e40" />
